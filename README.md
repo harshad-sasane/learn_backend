@@ -2,6 +2,8 @@
 
 A personal learning repository documenting my journey to become a backend developer. This space contains projects, practice exercises, and notes as I build backend systems from the ground up.
 
+> **Note:** Some technologies listed below (FastAPI, Flask, Docker, PostgreSQL) are part of upcoming phases of this roadmap and will be introduced progressively as the learning path advances.
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,15 +16,15 @@ A personal learning repository documenting my journey to become a backend develo
 
 ## 📁 Repository Structure
 
-### 📒 **Notes**
+### 📒 Notes
 Theory, concepts, and cheatsheets organized by topic. Contains my personal documentation for backend concepts I'm learning.
 
-### 🎮 **Practice**
+### 🎮 Practice
 Small exercises and course implementations:
 - **CS50P**: Harvard's Python programming course exercises
 - **Playground**: Experimental code and concept testing
 
-### 🏗️ **Projects**
+### 🏗️ Projects
 Complete backend projects with increasing complexity:
 - **File Organizer**: CLI utility to organize files by type and date
 - *More projects in development...*

@@ -12,7 +12,6 @@ print("\n--- Testing end parameter ---")
 print("Line 1", end=" | ")
 print("Line 2", end=" | ")
 print("Line 3")
-print("line 4")
 
 # Breaking it on purpose - see the error
-print("hello world")  # Uncomment to see error
+# print("hello" "world")  # Uncomment to see error

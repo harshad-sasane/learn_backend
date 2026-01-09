@@ -1,3 +1,5 @@
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=harshad-sasane.learn_backend)
+
 # 🚀 Backend Learning Journey
 
 A personal learning repository documenting my journey to become a backend developer. This space contains projects, practice exercises, and notes as I build backend systems from the ground up.

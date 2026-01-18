@@ -1,5 +1,5 @@
 # Learning: input() returns strings - need float() for math!
-x = float(input("enter x :"))  
+x = float(input("enter x :"))
 y = float(input("enter y :"))
 
 # Basic math operations
@@ -14,7 +14,7 @@ print(f"{x} % {y} = {x % y}")
 print(f"\nround(x/y, 2): {round(x/y, 2)}")
 print(f"round(x/y, 4): {round(x/y, 4)}")
 
-# f-string formatting alternative  
+# f-string formatting alternative
 print(f"f-string: {x/y:.2f}")  # .2f means 2 decimal places
 
 # Comparing both methods
